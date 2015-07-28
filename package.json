@@ -1,0 +1,49 @@
+{
+  "name": "neon-playground",
+  "description": "Neon Playground",
+  "version": "0.0.1",
+  "keywords": [
+    "neon",
+    "mvc",
+    "fullstack",
+    "cli",
+    "frontend",
+    "backend",
+    "stack",
+    "bootstrap",
+    "backend",
+    "orm",
+    "postgres",
+    "mysql",
+    "database",
+    "widget",
+    "full",
+    "generator"
+  ],
+  "engines": {
+    "node": ">=0.10.33"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/server.js"
+  },
+  "dependencies": {
+    "autoprefixer-loader": "^1.2.0",
+    "casual": "^1.4.7",
+    "compression-webpack-plugin": "^0.2.0",
+    "css-loader": "^0.9.1",
+    "file-loader": "^0.8.1",
+    "imports-loader": "^0.6.3",
+    "jsx-transform-loader": "^1.0.2",
+    "less": "^2.4.0",
+    "less-loader": "^2.2.0",
+    "neon": "^2.0.0",
+    "neonode-core": "^2.3.6",
+    "neowidget": "^2.0.0",
+    "path": "^0.11.14",
+    "style-loader": "^0.9.0",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.7.3"
+  },
+  "_id": "neonode@2.1.4"
+}
